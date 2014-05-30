@@ -1,0 +1,27 @@
+{
+  "name": "vast-project",
+  "version": "0.1.4",
+  "description": "a persion fe project builder",
+  "dependencies":{
+    "requirejs":">=2.0.0",
+    "jquery": ">=2.0.0"
+  },
+  "scripts": {
+      "install":"node scripts/install.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vastwu/vast-project.git"
+  },
+  "keywords": [
+    "refresh",
+    "auto",
+    "sync"
+  ],
+  "author": "vastwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vastwu/vast/issues"
+  },
+  "homepage": "https://github.com/vastwu/vast-project"
+}
