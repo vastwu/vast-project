@@ -280,8 +280,9 @@
 
 
 (function(){
-    file.copyDir('node_modules/jquery/dist/', 'lib/jquery/');
-    file.copyDir('node_modules/requirejs/require.js', 'lib/require.js');
+    file.copyDir('node_modules/jquery/dist/', 'project/lib/jquery/');
+    file.copyFile('node_modules/requirejs/require.js', 'project/lib/require.js');
+    file.copyFile('node_modules/requirejs/bin/r.js', 'project/build/lib/r.js');
 
 })();
 
