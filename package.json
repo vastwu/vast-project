@@ -7,7 +7,7 @@
     "jquery": ">=2.0.0"
   },
   "scripts": {
-      "install":"node scripts/install.js"
+      "install":"bash scripts/install.sh"
   },
   "repository": {
     "type": "git",
