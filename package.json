@@ -1,7 +1,8 @@
 {
   "name": "vast-project",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "description": "a persion fe project builder",
+  "email": "vincentwu53@hotmail.com",
   "dependencies":{
     "requirejs":">=2.0.0",
     "jquery": ">=2.0.0"
