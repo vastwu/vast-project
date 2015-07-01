@@ -1,6 +1,6 @@
 {
   "name": "vast-project",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "a persion fe project builder",
   "dependencies":{
     "requirejs":">=2.0.0",
